@@ -1,5 +1,4 @@
 Welcome to the RamWorks Development Group GitHub repository! Here you will find open-source files and data for Ram Networks, EmuNetworks and Project Home Desk Plus. Please enjoy your unrestricted access.
-<h4> Note: The website is coming soon. We apologise for any inconvinience. </h4>
 
 <h1> About RamWorks and where to find its products:</h1>
 <hr>
